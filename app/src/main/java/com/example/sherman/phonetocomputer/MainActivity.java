@@ -33,7 +33,7 @@ public class MainActivity extends ActionBarActivity {
                 else {
                     String received = m.getData().getString(getString(R.string.message_key));
                     ip = m.getData().getString(getString(R.string.ip_key));
-                    //handleData(received);
+                    handleData(received);
                     if (received.equals(""))
                         cr = ConfirmResult.newInstance(true);
                     else
