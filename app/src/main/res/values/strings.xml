@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PhoneToComputer</string>
+    <string name="data">The Data</string>
+    <string name="send">Send Data</string>
+    <string name="receive">Receive Data</string>
+    <string name="message_key">message_key</string>
+    <string name="completed_key">completed_key</string>
+    <string name="data_key">data_key</string>
+    <string name="ip_key">ip_key</string>
+
+    <string name="ip_dialog">IP/Data Dialog</string>
+    <string name="ip_prompt">Input IP of Computer for Transmission</string>
+    <string name="data_prompt">Confirm the data to send</string>
+    <string name="connection_status">Connection Status</string>
+    <string name="radio_error">Error: Radio selection registers neither send nor receive</string>
+
+    <!-- Button prompts -->
+    <string name="connect">Connect</string>
+    <string name="cancel">Cancel</string>
+    <string name="acknowledge">Ok</string>
+
+    <string name="port">30000</string>
+    <string name="complete">Connection completed. Data transmit succesfully</string>
+    <string name="ip_invalid">The IP address input is invalid</string>
+    <string name="error">Error: Connection failed to transmit data</string>
+    <string name="received_prompt">The requested data</string>
+    <string name="action_settings">Settings</string>
+</resources>
