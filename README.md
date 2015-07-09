@@ -1,5 +1,5 @@
 # PhoneToComputer
-Android app for sending data between device and another computer
+Android app for sending data between device and another computer, because a Computer Scientist can only be so reliant on Google
 
 The supplied Java class "PhoneConnection" creates a ServerSocket on the host computer, enabling it to communicate with the
 Android device. PhoneConnection is meant to be run from the command-line, and minimally requires supply of an appropriate 
